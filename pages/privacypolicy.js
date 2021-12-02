@@ -56,11 +56,6 @@ export default function PrivacyPolicy() {
 								* [AdMob]
 							</Link>
 						</p>
-						<p>
-							<Link href='https://firebase.google.com/policies/analytics'>
-								* [Google Analytics for Firebase]
-							</Link>
-						</p>
 					</p>
 					<Header title='Log Data' />
 					<p className='description'>
